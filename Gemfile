@@ -44,5 +44,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+#user account creation and log on
 gem 'devise'
+
+gem 'dragonfly'
